@@ -19,3 +19,11 @@ Encrypting some or all of a program's code is one obfuscation method.
 1.  ``` https://obfuscator.io/  ```
 2. ```https://deobfuscate.io/  ```
 3. ```https://obf-io.deobfuscate.io/ ```
+
+ # Use of Gist
+   GitHub Gists serve as a quick and easy way to share code snippets, scripts, and text notes. They're often used for:
+
+   * Sharing code snippets during discussions.
+   * Storing and sharing configuration files.
+   * Collaborating on small projects or assignments.
+   * Embedding executable examples in documentation or tutorials.

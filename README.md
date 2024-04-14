@@ -16,6 +16,6 @@ Encrypting some or all of a program's code is one obfuscation method.
 
 ## Links for  obfuscating and deobfuscating.
 
-1  ``` https://obfuscator.io/  ```
-2  ```https://deobfuscate.io/  ```
-3  ```https://obf-io.deobfuscate.io/ ```
+1.  ``` https://obfuscator.io/  ```
+2. ```https://deobfuscate.io/  ```
+3. ```https://obf-io.deobfuscate.io/ ```

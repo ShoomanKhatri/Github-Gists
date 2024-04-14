@@ -1,4 +1,12 @@
 # Getting Started
+
+## Use of Gist
+   GitHub Gists serve as a quick and easy way to share code snippets, scripts, and text notes. They're often used for:
+
+   * Sharing code snippets during discussions.
+   * Storing and sharing configuration files.
+   * Collaborating on small projects or assignments.
+   * Embedding executable examples in documentation or tutorials.
 ## You can run this index.js by following steps:
 1. Copy the raw file of 'index.js' and paste it to your computer.(or simply you can download it).
 2.Set up the requirements by typing this in terminal as follows:
@@ -20,10 +28,4 @@ Encrypting some or all of a program's code is one obfuscation method.
 2. ```https://deobfuscate.io/  ```
 3. ```https://obf-io.deobfuscate.io/ ```
 
- # Use of Gist
-   GitHub Gists serve as a quick and easy way to share code snippets, scripts, and text notes. They're often used for:
-
-   * Sharing code snippets during discussions.
-   * Storing and sharing configuration files.
-   * Collaborating on small projects or assignments.
-   * Embedding executable examples in documentation or tutorials.
+ 

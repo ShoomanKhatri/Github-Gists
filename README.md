@@ -1,7 +1,7 @@
 # Getting Started
 ## You can run this index.js by following steps:
 1. Copy the raw file of 'index.js' and paste it to your computer.(or simply you can download it).
-2.Set up the requirements as follows:
+2.Set up the requirements by typing this in terminal as follows:
 ```
 npm install
 node index.js
